@@ -1,0 +1,19 @@
+img {
+  width:60px;
+  height:auto;
+}
+li {
+    list-style: none;
+    display: inline;
+    padding-right: 15px;
+    text-decoration: none;
+    font-family: Verdana;
+}
+li a {
+  text-decoration: none;
+}
+footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
